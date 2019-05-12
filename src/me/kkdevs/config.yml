@@ -1,0 +1,5 @@
+text: "%player%, §fВы получили§a %money%$" #Message
+Conclusion: "title" #type messages (title/popup/message)
+min: 10
+max: 100
+id: 1 #BlockID
